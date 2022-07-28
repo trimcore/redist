@@ -1,7 +1,7 @@
 *TRIM CORE SOFTWARE s.r.o.*
 # Third-party redistributable package archive
 
-The packages here are available for convenience only, and without any warrants; especially for being up to date.
+The packages here are available for convenience only, and without any warranties; especially for being up to date.
 Always prefer downloading latest versions from official sources.
 
 ## Microsoft
