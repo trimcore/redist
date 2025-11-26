@@ -12,6 +12,14 @@ https://www.microsoft.com/cs-cz/download/details.aspx?id=50410
 Microsoft Visual C++ Redistributable Latest Supported Downloads  
 https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
+### Runtime for Windows 10 / Server 2016 and later
+
+ARM64:	https://aka.ms/vs/18/release/vc_redist.arm64.exe  
+X86:	https://aka.ms/vs/18/release/vc_redist.x86.exe  
+X64:	https://aka.ms/vs/18/release/vc_redist.x64.exe  
+
+### Runtime for Windows 7 / Server 2008 R2 and later
+
 ARM64:	https://aka.ms/vs/17/release/vc_redist.arm64.exe  
 X86:	https://aka.ms/vs/17/release/vc_redist.x86.exe  
 X64:	https://aka.ms/vs/17/release/vc_redist.x64.exe  
